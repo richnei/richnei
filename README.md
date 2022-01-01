@@ -1,6 +1,7 @@
 ## Olá mundo! Eu sou o Rich Nei, mas pode me chamar de Nei  😁
 
 - 🌱 Estudando React e node.js
+ <br>
 
 <div display="inline_block">
   
@@ -9,8 +10,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richnei&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
-  <br>
-  
   <h3 id="languages_and_tools"> Languages and Tools: </h3>
 <div>
   <img width="40em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
