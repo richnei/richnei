@@ -8,7 +8,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richnei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richnei&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+  <br>
+  <br>
   
   <h3 id="languages_and_tools"> Languages and Tools: </h3>
 <div>
