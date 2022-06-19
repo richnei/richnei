@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I started programming in 2012. In 2021, it became clear to me the love I feel for technology and for the possibility of impacting the concrete lives of thousands of people.<br><br>I'm currently improving myself in ReactJS, NodeJS and my English.</h5>
+<h4 align="left">I started programming in 2012. In 2021, it became clear to me the love I feel for technology and for the possibility of impacting the concrete lives of thousands of people.<br><br>I'm currently improving myself in ReactJS, NodeJS and my English.</h4>
 
 ###
 
