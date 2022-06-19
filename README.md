@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<h5 align="left">I started programming in 2012. In 2021, it became clear to me the love I feel for technology and for the possibility of impacting the concrete lives of thousands of people.<br><br>I'm currently improving myself in ReactJS, NodeJS and my English.</h5>
+<h2 align="left">I started programming in 2012. In 2021, it became clear to me the love I feel for technology and for the possibility of impacting the concrete lives of thousands of people.<br><br>I'm currently improving myself in ReactJS, NodeJS and my English.</h2>
 
 ###
 
@@ -21,11 +19,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=richnei.richnei&left_color=darkgreen&right_color=green&left_text=Visitors"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/richnei/" target="_blank">
@@ -37,6 +31,12 @@
   <a href="https://contate.me/wppdorichnei" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=richnei.richnei&left_color=darkgreen&right_color=green&left_text=Visitors"  />
 </div>
 
 ###
