@@ -1,4 +1,4 @@
-<h3 align="center">Hi There! My name is Rich Nei! 😁</h3>
+<h3 align="center">Hi there! My name is Rich Nei! 😁</h3>
 
 ###
 
